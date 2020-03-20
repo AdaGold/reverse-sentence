@@ -1,4 +1,4 @@
-# A method which will return an split_sentenceay of the words in the string
+# A method which will return an  an array of the words in the string - changed?
 #  sorted by the length of the word.
 # Time complexity: O(n)
 # Space complexity: O(1)
